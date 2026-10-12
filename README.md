@@ -2,6 +2,9 @@
 ## Project Objective:
 Analyze the Q1 FY 26-27 (April – June 2026) performance data for YES BANK’s Bharat Bill Payment System (BBPS) BOU (Biller Operating Unit) & COU (Customer Operating Unit) integration. This analysis evaluates overall transaction volume, processed monetary value, participant performance (Aggregator Integrators/AIs and Billers), and month-on-month trends to provide strategic recommendations for driving transaction growth and ecosystem expansion in Q2 & Q3 FY 26-27.
 
+## Note :
+Due to data privacy and company confidentiality policies, raw datasets, customer records, and the original workbook are proprietary and cannot be shared publicly.
+
 ## Key Performance Indicators (KPIs) & Data Analysis
 ### High-Level Summary Metrics
 - Total Transactions Processed: ₹43.5 Cr (435 Million) transactions   
